@@ -5,3 +5,4 @@
 ## Features
  * Rolling animation
  * Two player mode
+ * Cool glitch "Refresh Me" button made with CSS
